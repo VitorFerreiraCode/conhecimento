@@ -10,6 +10,7 @@ Aqui organizo todo o meu conhecimento de forma estruturada e de fácil acesso.
 - [[Estrutura de Dados]]
 
 ### 🛠️ Linguagens
+- [[Paradigmas de Programação]]
 - [[Linguagens]]
 - [[Frameworks e Bibliotecas]]
 

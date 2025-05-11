@@ -4,22 +4,18 @@
 ### Conceito
 
 > O Paradigma Imperativo é uma forma de programar que se concentra em dar instruções claras sobre como realizar uma tarefa. Segue-se passo a passo, pode atribuir valores a variáveis, tomar decisões, repetir ações, funções reutilizáveis, etc.
+> É o estilo “tradicional” em que o programador descreve passo a passo _como_ o computador deve executar uma tarefa, manipulando diretamente o estado (variáveis, memória, I/O).
 
 ### Subtipos de Paradigmas
 
 1. [[Paradigma Estruturado]]
 2. [[Paradigma Orientado a Objetos]]
 
-### Paradigma Estruturado
+### **Princípios-chave**
 
-É um estilo dentro do paradigma imperativo que se concentra em organizar o código fonte em uma sequência de procedimentos ou funções.
+- **Sequência**: execução linear de comandos.
+    
+- **Atribuição de estado**: uso de variáveis mutáveis.
+    
+- **Controle de fluxo**: estruturas `if`, `for`, `while`, `switch`.
 
-É conhecida como "step-by-step".
-
-#### Linguagem Estruturadas:
-
-- [[Linguagem C| C]], Pascal, COBOL, Fortran, BASIC, ALGOL.
-
-### Paradigma orientado a objetos
-
-> Tem como ideia principal os 'objetos'. Cada objeto, uma instância de classe, encapsula dados (atributos) e comportamentos (métodos), permitindo interações entre eles para executar tarefas.

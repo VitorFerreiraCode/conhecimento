@@ -11,40 +11,26 @@
             "id": "f848160ab2bdb2fb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ferramentas/Git e Github/Git & Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git & Github"
+            }
+          },
+          {
+            "id": "d1971867fa093158",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "TypeX/A fazeres.md"
+                "file": "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo (Fluxo).md"
               },
               "icon": "excalidraw-icon",
-              "title": "A fazeres"
-            }
-          },
-          {
-            "id": "794ad8f432d9a1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagens/Tipos de Linguagens/Linguagem Imperativa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linguagem Imperativa"
-            }
-          },
-          {
-            "id": "fe26f16cb780b653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paradigma Declarativo"
+              "title": "Paradigma Declarativo (Fluxo)"
             }
           },
           {
@@ -59,8 +45,7 @@
               "title": "Requisitos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,44 +193,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fe26f16cb780b653",
+  "active": "f848160ab2bdb2fb",
   "lastOpenFiles": [
-    "Linguagens/PARADIGMAS/Paradigmas de Programação.md",
-    "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo.md",
-    "Linguagens/PARADIGMAS/Imperativo/Paradigma Imperativo.md",
+    "Linguagens/Linguagens de Programação.md",
+    "Ferramentas/Git e Github/Git & Github.md",
+    "Central de Conhecimento.md",
+    "Como utilizar o Obsidian.md",
+    "Linguagens/Tipos de Linguagens/Programação Reativa.md",
     "Linguagens/PARADIGMAS/Imperativo/Subparadigmas/Paradigma Orientado a Objetos.md",
+    "Linguagens/Tipos de Linguagens/POO.md",
+    "Linguagens/PARADIGMAS/Imperativo/Paradigma Imperativo.md",
     "Linguagens/PARADIGMAS/Imperativo/Subparadigmas/Paradigma Estruturado.md",
+    "TypeX/A fazeres.md",
+    "Linguagens/Tipos de Linguagens/Linguagem Imperativa.md",
+    "Linguagens/PARADIGMAS/Paradigmas de Programação.md",
+    "Linguagens/PARADIGMAS/Declarativo/Subparadigmas/Paradigma Funcional.md",
+    "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo.md",
+    "Linguagens/PARADIGMAS/Declarativo/Subparadigmas",
+    "Untitled",
+    "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo (Fluxo).md",
     "DevOps e Infra/Redes/Redes.md",
     "DevOps e Infra/Redes/Introdução a Redes/Equipamentos de Rede.md",
     "DevOps e Infra/Redes/Introdução a Redes",
     "Linguagens/PARADIGMAS/Declarativo",
     "Linguagens/PARADIGMAS/Imperativo/Subparadigmas",
     "C.md",
-    "Linguagens/Tipos de Linguagens/Linguagem Imperativa.md",
     "Linguagens/PARADIGMAS/Imperativo",
     "Linguagens/PARADIGMAS",
-    "Linguagens/Tipos de Linguagens/Programação Reativa.md",
     "Linguagens/Tipos de Linguagens/Paradigmas da Programação",
-    "Central de Conhecimento.md",
     "Quarkus.md",
     "DevOps e Infra/Redes/Introdução a Redes/Partes da Rede.md",
-    "Linguagens/Tipos de Linguagens/POO.md",
     "TypeX/TypeX Hub/Requisitos.md",
     "Linguagens/Tipos de Linguagens",
     "TypeX/TypeX Hub/Banco de Dados.md",
-    "TypeX/A fazeres.md",
     "Excalidraw",
     "TypeX Hub/Banco de Dados 1.md",
-    "TypeX",
     "TypeX Hub/Untitled.md",
     "Untitled.canvas",
     "OI.md",
-    "Ferramentas/Docker/Docker.md",
-    "TypeX/TypeX Hub",
-    "Ferramentas/Docker/Docker - DataView.md",
-    "DevOps e Infra/Redes/Introdução a Redes/Meios Físicos/Meios Físicos.md",
-    "Como utilizar o Obsidian.md",
-    "Ferramentas/Docker/Docker Fluxograma.md",
-    "Ferramentas/Docker/Iniciar Container Docker/3. Construa um Container Docker.md"
+    "Ferramentas/Docker/Docker.md"
   ]
 }
