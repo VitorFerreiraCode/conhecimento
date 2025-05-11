@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f848160ab2bdb2fb",
+            "id": "4523d16d48990169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ferramentas/Git e Github/Git & Github.md",
+                "file": "Angular/Components/Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & Github"
-            }
-          },
-          {
-            "id": "d1971867fa093158",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo (Fluxo).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Paradigma Declarativo (Fluxo)"
-            }
-          },
-          {
-            "id": "f82a450d4d723f29",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "TypeX/TypeX Hub/Requisitos.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Requisitos"
+              "title": "Components"
             }
           }
         ]
@@ -193,10 +169,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f848160ab2bdb2fb",
+  "active": "4523d16d48990169",
   "lastOpenFiles": [
-    "Linguagens/Linguagens de Programação.md",
+    "Quarkus.md",
+    "Angular/Components/Components.md",
+    "TypeX/TypeX Hub/Requisitos.md",
+    "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo (Fluxo).md",
+    "Angular/Components/Anatomia do Componente.md",
+    "Angular/Components",
+    "Angular/Angular - Getting Started.md",
+    "Angular/Imagens/Components-user.md",
+    "Excalidraw",
+    "Angular/Imagens",
+    "Angular/Angular.md",
+    "Angular",
     "Ferramentas/Git e Github/Git & Github.md",
+    "Linguagens/Linguagens de Programação.md",
     "Central de Conhecimento.md",
     "Como utilizar o Obsidian.md",
     "Linguagens/Tipos de Linguagens/Programação Reativa.md",
@@ -210,8 +198,6 @@
     "Linguagens/PARADIGMAS/Declarativo/Subparadigmas/Paradigma Funcional.md",
     "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo.md",
     "Linguagens/PARADIGMAS/Declarativo/Subparadigmas",
-    "Untitled",
-    "Linguagens/PARADIGMAS/Declarativo/Paradigma Declarativo (Fluxo).md",
     "DevOps e Infra/Redes/Redes.md",
     "DevOps e Infra/Redes/Introdução a Redes/Equipamentos de Rede.md",
     "DevOps e Infra/Redes/Introdução a Redes",
@@ -220,17 +206,7 @@
     "C.md",
     "Linguagens/PARADIGMAS/Imperativo",
     "Linguagens/PARADIGMAS",
-    "Linguagens/Tipos de Linguagens/Paradigmas da Programação",
-    "Quarkus.md",
     "DevOps e Infra/Redes/Introdução a Redes/Partes da Rede.md",
-    "TypeX/TypeX Hub/Requisitos.md",
-    "Linguagens/Tipos de Linguagens",
-    "TypeX/TypeX Hub/Banco de Dados.md",
-    "Excalidraw",
-    "TypeX Hub/Banco de Dados 1.md",
-    "TypeX Hub/Untitled.md",
-    "Untitled.canvas",
-    "OI.md",
-    "Ferramentas/Docker/Docker.md"
+    "Untitled.canvas"
   ]
 }
