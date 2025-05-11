@@ -95,3 +95,16 @@ Não guiados: sem fio
 
 ---
 
+### Protocolo e Modelos em Camadas
+
+As Redes precisam de [[Módulos de Redes | Módulos]].
+
+1. Criar e Parar ligações
+2. Encontrar um caminho através da rede
+3. Transferir informação de forma confiável
+
+Os protocolos são regras e também são a implementação das regras.
+
+A implementação das regras é uma pilha de protocolos (protocol stack).
+
+TCP, IP, Ethernet, HTTP, HTTPS, SSL, DNS, Wifi.

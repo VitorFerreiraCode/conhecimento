@@ -13,4 +13,4 @@
 
 > São descrições de tudo aquilo que o sistema pode fazer, os servições que oferece e as restrições a respeito de seu funcionamento.
 
--> [[Requisitos]]
+-> [[Conceitos de Engenharia/Engenharia de Requisitos/Requisitos]]
